@@ -2,7 +2,7 @@
 
 website we used to help code the model:
 
-https://github.com/ItsWajdy/tensorflow-tutorials/blob/master/Basic%20Classification.py -> i got the inspiration from this to  plot the images and see the results of the cnn model !
+https://github.com/ItsWajdy/tensorflow-tutorials/blob/master/Basic%20Classification.py
 
 https://github.com/rois-codh/kmnist -> I used the balanced accuracy score to get the accuracy of the models.
 
