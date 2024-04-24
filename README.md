@@ -1,4 +1,6 @@
-# AI_Coursework
+# Hiragana Classifier
+
+Hiragana forms one of three alphabet systems in japanese.
 
 website we used to help code the model:
 
