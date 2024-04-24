@@ -1,6 +1,6 @@
 # Hiragana Classifier
 
-Hiragana forms one of three alphabet systems in japanese.
+Hiragana forms one of three part of the Japanese writing system, others being katakana and kanji. Hiragana is known to be the easiest to understand. To help me and my partner understand the handwritten hiragana written by japanese people.
 
 website we used to help code the model:
 
